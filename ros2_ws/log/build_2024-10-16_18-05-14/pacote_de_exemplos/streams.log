@@ -1,0 +1,116 @@
+[1.482s] Invoking command in '/home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/src/aprendendo_ros2/src/pacote_de_exemplos': PYTHONPATH=/home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/build/pacote_de_exemplos/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/pacote_de_exemplos build --build-base /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/build/pacote_de_exemplos/build install --record /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/build/pacote_de_exemplos/install.log --single-version-externally-managed install_data
+[1.764s] /home/llagoeiro/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+[1.764s]   warnings.warn(msg)
+[1.936s] running egg_info
+[1.937s] creating ../../../../build/pacote_de_exemplos/pacote_de_exemplos.egg-info
+[1.981s] writing ../../../../build/pacote_de_exemplos/pacote_de_exemplos.egg-info/PKG-INFO
+[1.983s] writing dependency_links to ../../../../build/pacote_de_exemplos/pacote_de_exemplos.egg-info/dependency_links.txt
+[1.983s] writing entry points to ../../../../build/pacote_de_exemplos/pacote_de_exemplos.egg-info/entry_points.txt
+[1.984s] writing requirements to ../../../../build/pacote_de_exemplos/pacote_de_exemplos.egg-info/requires.txt
+[1.984s] writing top-level names to ../../../../build/pacote_de_exemplos/pacote_de_exemplos.egg-info/top_level.txt
+[1.984s] writing manifest file '../../../../build/pacote_de_exemplos/pacote_de_exemplos.egg-info/SOURCES.txt'
+[2.090s] reading manifest file '../../../../build/pacote_de_exemplos/pacote_de_exemplos.egg-info/SOURCES.txt'
+[2.093s] writing manifest file '../../../../build/pacote_de_exemplos/pacote_de_exemplos.egg-info/SOURCES.txt'
+[2.093s] running build
+[2.093s] running build_py
+[2.094s] creating /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/build/pacote_de_exemplos/build/lib/pacote_de_exemplos
+[2.095s] copying pacote_de_exemplos/__init__.py -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/build/pacote_de_exemplos/build/lib/pacote_de_exemplos
+[2.095s] copying pacote_de_exemplos/r2d2.py -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/build/pacote_de_exemplos/build/lib/pacote_de_exemplos
+[2.095s] copying pacote_de_exemplos/mapping.py -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/build/pacote_de_exemplos/build/lib/pacote_de_exemplos
+[2.096s] copying pacote_de_exemplos/lidar_to_grid_map.py -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/build/pacote_de_exemplos/build/lib/pacote_de_exemplos
+[2.096s] copying pacote_de_exemplos/lasers.py -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/build/pacote_de_exemplos/build/lib/pacote_de_exemplos
+[2.096s] copying pacote_de_exemplos/robot.py -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/build/pacote_de_exemplos/build/lib/pacote_de_exemplos
+[2.097s] running install
+[2.106s] running install_lib
+[2.156s] creating /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/lib/python3.10/site-packages/pacote_de_exemplos
+[2.157s] copying /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/build/pacote_de_exemplos/build/lib/pacote_de_exemplos/__init__.py -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/lib/python3.10/site-packages/pacote_de_exemplos
+[2.157s] copying /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/build/pacote_de_exemplos/build/lib/pacote_de_exemplos/r2d2.py -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/lib/python3.10/site-packages/pacote_de_exemplos
+[2.158s] copying /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/build/pacote_de_exemplos/build/lib/pacote_de_exemplos/mapping.py -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/lib/python3.10/site-packages/pacote_de_exemplos
+[2.158s] copying /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/build/pacote_de_exemplos/build/lib/pacote_de_exemplos/lidar_to_grid_map.py -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/lib/python3.10/site-packages/pacote_de_exemplos
+[2.159s] copying /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/build/pacote_de_exemplos/build/lib/pacote_de_exemplos/lasers.py -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/lib/python3.10/site-packages/pacote_de_exemplos
+[2.159s] copying /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/build/pacote_de_exemplos/build/lib/pacote_de_exemplos/robot.py -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/lib/python3.10/site-packages/pacote_de_exemplos
+[2.161s] byte-compiling /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/lib/python3.10/site-packages/pacote_de_exemplos/__init__.py to __init__.cpython-310.pyc
+[2.161s] byte-compiling /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/lib/python3.10/site-packages/pacote_de_exemplos/r2d2.py to r2d2.cpython-310.pyc
+[2.167s] byte-compiling /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/lib/python3.10/site-packages/pacote_de_exemplos/mapping.py to mapping.cpython-310.pyc
+[2.169s] byte-compiling /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/lib/python3.10/site-packages/pacote_de_exemplos/lidar_to_grid_map.py to lidar_to_grid_map.cpython-310.pyc
+[2.173s] byte-compiling /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/lib/python3.10/site-packages/pacote_de_exemplos/lasers.py to lasers.cpython-310.pyc
+[2.174s] byte-compiling /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/lib/python3.10/site-packages/pacote_de_exemplos/robot.py to robot.cpython-310.pyc
+[2.176s] running install_data
+[2.177s] creating /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/ament_index/resource_index/packages
+[2.177s] copying resource/pacote_de_exemplos -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/ament_index/resource_index/packages
+[2.178s] copying package.xml -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos
+[2.179s] creating /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/config
+[2.180s] copying config/Default.perspective -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/config
+[2.181s] creating /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/config/rviz
+[2.182s] copying config/rviz/navigation.rviz -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/config/rviz
+[2.182s] copying config/rviz/mapping_slam_toolbox.rviz -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/config/rviz
+[2.183s] copying config/rviz/mapping_cartographer.rviz -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/config/rviz
+[2.184s] copying config/rviz/robot.rviz -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/config/rviz
+[2.185s] creating /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/config/nav
+[2.185s] copying config/nav/ekf.yaml -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/config/nav
+[2.186s] copying config/nav/slam_toolbox.yaml -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/config/nav
+[2.186s] copying config/nav/cartographer.lua -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/config/nav
+[2.187s] copying config/nav/nav2_params.yaml -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/config/nav
+[2.188s] creating /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/config/map
+[2.188s] copying config/map/checkpoints.json -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/config/map
+[2.189s] copying config/map/map.pgm -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/config/map
+[2.190s] copying config/map/map.yaml -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/config/map
+[2.190s] creating /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/launch
+[2.191s] copying launch/turtlebot.launch.py -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/launch
+[2.191s] copying launch/mapping_slam_toolbox.launch.py -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/launch
+[2.192s] copying launch/mapping_cartographer.launch.py -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/launch
+[2.192s] copying launch/display.launch.py -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/launch
+[2.192s] copying launch/exemplo.launch.py -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/launch
+[2.193s] copying launch/simulation.launch.py -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/launch
+[2.193s] copying launch/load.launch.py -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/launch
+[2.193s] copying launch/navigation2.launch.py -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/launch
+[2.194s] copying launch/load_turtlebot.launch.py -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/launch
+[2.194s] copying launch/navigation.launch.py -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/launch
+[2.195s] creating /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/simulation/worlds
+[2.195s] copying simulation/worlds/simple_room_with_gaps.world -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/simulation/worlds
+[2.196s] copying simulation/worlds/simple_room.world -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/simulation/worlds
+[2.196s] copying simulation/worlds/simple_room_with_fixed_boxes.world -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/simulation/worlds
+[2.196s] copying simulation/worlds/simple_room_with_random_boxes.world -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/simulation/worlds
+[2.197s] copying simulation/worlds/empty.world -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/simulation/worlds
+[2.197s] creating /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/simulation/models/box
+[2.198s] copying simulation/models/box/model.sdf -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/simulation/models/box
+[2.198s] copying simulation/models/box/model.config -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/simulation/models/box
+[2.198s] creating /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/simulation/models/r2d2
+[2.199s] copying simulation/models/r2d2/model.sdf -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/simulation/models/r2d2
+[2.199s] copying simulation/models/r2d2/model.config -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/simulation/models/r2d2
+[2.200s] creating /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/simulation/models/simple_room
+[2.200s] copying simulation/models/simple_room/model.sdf -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/simulation/models/simple_room
+[2.201s] copying simulation/models/simple_room/model.config -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/simulation/models/simple_room
+[2.202s] creating /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/simulation/models/wood_square
+[2.202s] copying simulation/models/wood_square/model.sdf -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/simulation/models/wood_square
+[2.203s] copying simulation/models/wood_square/model.config -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/simulation/models/wood_square
+[2.203s] creating /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/urdf
+[2.204s] copying urdf/robot.urdf -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/urdf
+[2.205s] copying urdf/myfirstrobot.urdf -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/urdf
+[2.205s] copying urdf/sam_bot_description.urdf -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/urdf
+[2.206s] copying urdf/myfirstrobot.urdf.xacro -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/urdf
+[2.207s] creating /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/urdf/macros
+[2.207s] copying urdf/macros/properties.urdf.xacro -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/urdf/macros
+[2.208s] copying urdf/macros/link_geometry.urdf.xacro -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/urdf/macros
+[2.208s] creating /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/urdf/macros/parts
+[2.209s] copying urdf/macros/parts/head.urdf.xacro -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/urdf/macros/parts
+[2.210s] copying urdf/macros/parts/wheel.urdf.xacro -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/urdf/macros/parts
+[2.210s] copying urdf/macros/parts/base.urdf.xacro -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/urdf/macros/parts
+[2.210s] copying urdf/macros/parts/leg.urdf.xacro -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/urdf/macros/parts
+[2.210s] creating /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/urdf/simulation
+[2.211s] copying urdf/simulation/gazebo_laser.urdf.xacro -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/urdf/simulation
+[2.211s] copying urdf/simulation/gazebo_base.urdf.xacro -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/urdf/simulation
+[2.212s] copying urdf/simulation/gazebo_camera.urdf.xacro -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/urdf/simulation
+[2.212s] copying urdf/simulation/imu.urdf.xacro -> /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/share/pacote_de_exemplos/urdf/simulation
+[2.212s] running install_egg_info
+[2.265s] Copying ../../../../build/pacote_de_exemplos/pacote_de_exemplos.egg-info to /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/lib/python3.10/site-packages/pacote_de_exemplos-0.0.0-py3.10.egg-info
+[2.268s] running install_scripts
+[2.550s] Installing checkpoints script to /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/lib/pacote_de_exemplos
+[2.550s] Installing lasers script to /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/lib/pacote_de_exemplos
+[2.551s] Installing lidar_to_grid_map script to /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/lib/pacote_de_exemplos
+[2.551s] Installing mapping script to /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/lib/pacote_de_exemplos
+[2.552s] Installing no_com_classe script to /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/lib/pacote_de_exemplos
+[2.552s] Installing no_simples script to /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/lib/pacote_de_exemplos
+[2.552s] Installing r2d2 script to /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/lib/pacote_de_exemplos
+[2.553s] writing list of installed files to '/home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/build/pacote_de_exemplos/install.log'
+[2.618s] Invoked command in '/home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/src/aprendendo_ros2/src/pacote_de_exemplos' returned '0': PYTHONPATH=/home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/build/pacote_de_exemplos/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/install/pacote_de_exemplos/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/pacote_de_exemplos build --build-base /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/build/pacote_de_exemplos/build install --record /home/llagoeiro/Desktop/FEI/8_semestre/RoboticaProbFolder/proj2/ros2_ws/build/pacote_de_exemplos/install.log --single-version-externally-managed install_data
